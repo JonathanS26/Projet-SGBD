@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Produit SGBD</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Produit SGBD.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Produit SGBD.jcp</path>
+		</project>
+	</projects>
+</workspace>
